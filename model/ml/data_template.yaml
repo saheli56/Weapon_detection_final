@@ -1,0 +1,8 @@
+# YOLO dataset config for synthetic weapon detection
+path: C:\luck\ml\dataset
+train: images
+val: images
+
+# number of classes
+ncls: 1
+names: ['weapon']

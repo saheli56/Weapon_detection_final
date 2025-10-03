@@ -1,0 +1,9 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+torch
+torchvision
+torchaudio
+Pillow
+scikit-learn
+matplotlib

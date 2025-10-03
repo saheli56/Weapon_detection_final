@@ -1,0 +1,4 @@
+﻿train: C:/luck/ml/dataset/images/train
+val: C:/luck/ml/dataset/images/val
+names:
+  0: weapon
